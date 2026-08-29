@@ -39,11 +39,14 @@ backlog. "Act 3 is impossible" is a hypothesis I check against the anonymous run
 statistics before changing a number, because loud feedback tracks frustration
 rather than the actual difficulty curve.
 
-## Privacy
+## Privacy and licence
 
-[**privacy.md**](privacy.md) - what the game sends if you opt in, what it never
-sends, and how to have your data deleted. Short version: off by default, no
-accounts, no ads, nothing you type.
+- [**privacy.md**](privacy.md) - what the game sends if you opt in, what it never
+  sends, and how to have your data deleted. Short version: off by default, no
+  accounts, no ads, nothing you type.
+- [**eula.md**](eula.md) - the licence for the game. Yes, you may record, stream
+  and monetise video of it. The same file ships next to `Fluxgates.exe`, along
+  with `THIRD-PARTY-NOTICES.md` for the open-source libraries and fonts it uses.
 
 ## Other places
 
