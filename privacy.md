@@ -19,8 +19,8 @@ One short report at the end of each run:
   could have gone to and the one you did. Recorded as kinds and depths ("an
   elite room at depth 3"), not as anything about you.
 - **What you have unlocked** - which research you have bought and in what order,
-  and how much of the game's own currency that cost. It shows whether the
-  upgrade tree is paced right.
+  how much of the game's own currency that cost, and which packs and nodes the
+  game has unlocked for you. It shows whether the upgrade tree is paced right.
 - **Difficulty** - the heat level and any pact modifiers active.
 - **The shape of your factory** - how many nodes and connections, how they were
   wired together, and how much of each resource was produced, per room.
