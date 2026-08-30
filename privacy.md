@@ -15,9 +15,21 @@ One short report at the end of each run:
 - **How the run ended** - won, lost, or quit - and how far it got.
 - **What you were offered and what you took** - the node, relic and shop items
   put in front of you, and which of them you picked.
+- **Which route you chose** - at each step of the map, the kinds of room you
+  could have gone to and the one you did. Recorded as kinds and depths ("an
+  elite room at depth 3"), not as anything about you.
+- **What you have unlocked** - which research you have bought and in what order,
+  and how much of the game's own currency that cost. It shows whether the
+  upgrade tree is paced right.
 - **Difficulty** - the heat level and any pact modifiers active.
-- **The shape of your factory** - how many nodes and connections, how much of
-  each resource was produced, per room.
+- **The shape of your factory** - how many nodes and connections, how they were
+  wired together, and how much of each resource was produced, per room.
+- **Which of the game's own settings you use** - your language, the visual
+  theme, the colour palette, the HUD scale, whether reduced motion is on, and
+  your default game speed. Two reasons: game speed changes how the numbers in
+  every other part of the report should be read, and the rest tells me which
+  accessibility options are worth continuing to build. Nothing about your
+  machine, your operating system, or any setting outside Fluxgates.
 - **Which build you were playing** - the game's version number, an identifier
   for the code revision it was built from, whether it was the demo or the full
   game, and a hash of the balance settings. None of this describes you or your
