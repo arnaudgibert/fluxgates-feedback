@@ -13,6 +13,15 @@ sent.
 One short report at the end of each run:
 
 - **How the run ended** - won, lost, or quit - and how far it got.
+- **If you stopped in the middle of a run** - how many times you had pressed
+  play in the room you were in, how many of those attempts failed, how many
+  nodes you had placed, and roughly how long you had been in that room. This is
+  the difference between "that room was confusing" and "that room was too hard",
+  which otherwise look identical to me.
+- **How many times the game has been launched on this install**, and how many
+  times it has reached the run-setup screen. Two counters, so I can see whether
+  new players get stuck before they ever start playing. They count launches, not
+  time, and say nothing about when you played.
 - **What you were offered and what you took** - the node, relic and shop items
   put in front of you, and which of them you picked.
 - **Which route you chose** - at each step of the map, the kinds of room you
