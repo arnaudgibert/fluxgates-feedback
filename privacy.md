@@ -72,6 +72,14 @@ And, **if the game crashes**, one short report describing the crash:
 
 - **First run:** you are asked once. Neither answer is preselected. If you close
   the game without answering, nothing is sent.
+- **Turning it on covers runs you have already played - with one exception.**
+  The game keeps a history of your recent runs on your own disk whether or not
+  this setting is on; switching it on lets that kept history be sent too, a few
+  runs at a time over your next few sessions, rather than only the runs you play
+  from then on. The exception is runs you played **after** switching the setting
+  off: those are never sent, even if you switch it back on later. Saying no once
+  is not undone by saying yes afterwards.
+  Switching it off stops everything immediately, as before.
 - **Any time after:** Settings → Data → "Send anonymous run data when a run
   ends". Unticking it stops the network request itself, not just what is done
   with the reply.
