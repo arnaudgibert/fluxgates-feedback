@@ -30,6 +30,11 @@ One short report at the end of each run:
 - **What you have unlocked** - which research you have bought and in what order,
   how much of the game's own currency that cost, and which packs and nodes the
   game has unlocked for you. It shows whether the upgrade tree is paced right.
+- **The tutorial, if you open it** - which part you played and how you opened
+  it (from the first-run question, the menu, or a replay), how each step ended
+  (done, skipped, or left) and how many seconds it took, and whether you
+  answered the first-run question with the tutorial or with skip. It shows which
+  steps teach and where people give up on them.
 - **Difficulty** - the heat level and any pact modifiers active.
 - **The shape of your factory** - how many nodes and connections, how they were
   wired together, and how much of each resource was produced, per room.
