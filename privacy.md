@@ -36,6 +36,9 @@ One short report at the end of each run:
   answered the first-run question with the tutorial or with skip. It shows which
   steps teach and where people give up on them.
 - **Difficulty** - the heat level and any pact modifiers active.
+- **Your Foundry, when a run ends** - its Research rate, how many blueprints
+  are placed in it, and each pack's tier. Never what it is called or how it is
+  laid out.
 - **The shape of your factory** - how many nodes and connections, how they were
   wired together, and how much of each resource was produced, per room.
 - **Which of the game's own settings you use** - your language, the visual
