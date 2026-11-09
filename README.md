@@ -7,7 +7,9 @@ one person and the source stays private.
 ## Report a bug
 
 **[Open an issue →](https://github.com/arnaudgibert/fluxgates-feedback/issues/new)**
-(the same button as **Report a bug** in the game's hub).
+This needs a GitHub account, so the game no longer links here: **Report a bug**
+in its hub opens Steam Discussions or Discord instead. An issue here is still
+read.
 
 Useful to include, in whatever order it comes out:
 
@@ -54,9 +56,6 @@ rather than the actual difficulty curve.
 - **Steam Discussions** - on the store page.
 - **Email** - <fluxgates.games@gmail.com> - for anything you'd rather not post
   in public (data deletion, press).
-
-Bugs are best filed **here**, though: the other channels scroll, and this one
-doesn't.
 
 ---
 
